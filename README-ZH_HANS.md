@@ -4,7 +4,7 @@
 [![最新版本](https://img.shields.io/github/release/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/releases)
 
 ## 介绍
-面向 [aria2](https://github.com/aria2/aria2) 的更好用的 Web 前端. AriaNg 使用纯 html & javascript 开发, 所以既不需要编译也不依赖于任何运行环境, 您只需要打开您的游览器就可以使用. 通过借助响应式布局设计, 您可以在任何计算机或移动设备上使用.
+让 [aria2](https://github.com/aria2/aria2) 更好用的 Web 前端. AriaNg 使用纯 html & javascript 开发, 所以既不需要编译也不依赖于任何运行环境, 您只需要打开您的游览器就可以使用. 通过借助响应式布局设计, 您可以在任何计算机或移动设备上使用.
 
 ## 特性
 1. 纯 Html & Javascript 实现, 不依赖任何运行时
@@ -48,7 +48,7 @@
 请访问 [http://ariang.mayswind.net/latest](http://ariang.mayswind.net/latest)
 
 ## 命令行 API
-请访问 [http://ariang.mayswind.net/command-api.html](http://ariang.mayswind.net/command-api.html) 获取更多信息.
+请访问 [命令行 API 文档](http://ariang.mayswind.net/zh_Hans/command-api.html) 获取更多信息.
 
 ## 协议
 [MIT](https://github.com/mayswind/AriaNg/blob/master/LICENSE)

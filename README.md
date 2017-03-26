@@ -3,10 +3,10 @@
 [![Lastest Build](https://img.shields.io/circleci/project/mayswind/AriaNg.svg?style=flat)](https://circleci.com/gh/mayswind/AriaNg/tree/master)
 [![Lastest Release](https://img.shields.io/github/release/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/releases)
 
-[简体中文说明 (Simplified Chinese README)](https://github.com/mayswind/AriaNg/blob/master/README-CHS.md)
+[简体中文说明 (Simplified Chinese README)](https://github.com/mayswind/AriaNg/blob/master/README-ZH_HANS.md)
 
 ## Introduction
-A Better Web Frontend for [aria2](https://github.com/aria2/aria2). AriaNg is written in pure html & javascript, so it does not need to be compiled and not need any runtime environment, and you just need to open it in your browser. By using responsive layout, you can open it on any desktop or mobile devices.
+A web frontend making [aria2](https://github.com/aria2/aria2) better. AriaNg is written in pure html & javascript, so it does not need to be compiled and not need any runtime environment, and you just need to open it in your browser. By using responsive layout, you can open it on any desktop or mobile devices.
 
 ## Features
 1. Pure Html & Javascript, no runtime required
@@ -50,7 +50,7 @@ The builds will be placed in the dist directory.
 Please visit [http://ariang.mayswind.net/latest](http://ariang.mayswind.net/latest)
 
 ## Command API
-Please visit [http://ariang.mayswind.net/command-api.html](http://ariang.mayswind.net/command-api.html) for more information.
+Please visit [Command API Document](http://ariang.mayswind.net/command-api.html) for more information.
 
 ## License
 [MIT](https://github.com/mayswind/AriaNg/blob/master/LICENSE)
